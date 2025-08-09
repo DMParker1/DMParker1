@@ -1,6 +1,6 @@
 # Daniel M. Parker
 
-**Field-grounded medical geographer & anthropologist with strong epidemiological credentials** — equally at home with satellite data and community narratives. My work sits at the intersection of infectious disease, mobility, and marginality, with a growing emphasis on the spatial politics of health.
+**I am a field-grounded spatial epidemiologist, medical geographer, & anthropological demographer with strong on-the-ground epidemiological credentials.** I am equally at home with satellite data, behind a computer, or in remote field settings engaging with community narratives. My work sits at the intersection of infectious disease ecology, human (and vector) mobility, and marginality, with a growing emphasis on the spatial politics of health.
 
 ---
 
