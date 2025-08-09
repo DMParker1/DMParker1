@@ -2,8 +2,6 @@
 
 **Field-grounded medical geographer & anthropologist with strong epidemiological credentials** — equally at home with satellite data and community narratives. My work sits at the intersection of infectious disease, mobility, and marginality, with a growing emphasis on the spatial politics of health.
 
-This preserves my legitimacy in infectious disease epidemiology, aligns with my passion for geography and anthropology, and lays the foundation for my future as a public intellectual and author.
-
 ---
 
 ### Now
@@ -11,7 +9,7 @@ This preserves my legitimacy in infectious disease epidemiology, aligns with my 
 - Selected highlight: **Dire Dawa sero-epidemiology analysis** → https://github.com/parker-group/DireDawa_Seroepi
 
 ### CV
-- **Curriculum Vitae (PDF)** → [/assets/Daniel_Parker_CV.pdf](./assets/Daniel_Parker_CV.pdf)
+- **Curriculum Vitae (PDF)** → [View CV](https://github.com/parker-group/parker-group.github.io/blob/main/docs/ParkerCV.pdf)
 
 ### Contact
-- Academic email on CV • ORCID: 0000-0002-5352-7338
+- Academic email on CV • ORCID: [0000-0002-5352-7338](https://orcid.org/0000-0002-5352-7338)
