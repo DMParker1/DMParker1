@@ -1,6 +1,7 @@
 # Daniel M. Parker
----
-I am a field-grounded spatial epidemiologist, medical geographer, and anthropological demographer with strong on-the-ground epidemiological credentials. I am equally at home with satellite data, behind a computer, or in remote field settings engaging with community narratives. I blend anthropological, demographic, and geographic methods to unpack how human behavior and environmental factors converge to influence infectious disease dynamics. My work is both regionally focused—particularly in Southeast Asia—and methodologically rich, combining field data, spatial modeling, and public health relevance, with a growing emphasis on the spatial politics of health.
+
+I am a spatial epidemiologist, medical geographer, and anthropological demographer working at the intersection of infectious disease ecology, mobility, and marginality. My research blends anthropological, demographic, and geographic methods to examine how human behavior and environmental factors shape disease dynamics, with particular focus on Southeast Asia.
+
 ---
 
 ### Now
@@ -12,3 +13,4 @@ I am a field-grounded spatial epidemiologist, medical geographer, and anthropolo
 
 ### Contact
 - Academic email on CV • ORCID: [0000-0002-5352-7338](https://orcid.org/0000-0002-5352-7338)
+
