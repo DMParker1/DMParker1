@@ -1,16 +1,18 @@
-## Hi there 👋
+# Daniel M. Parker — spatial epidemiology, medical geography, and anthropology
 
-<!--
-**DMParker1/DMParker1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Field-grounded medical geographer & anthropologist** with strong epidemiological credentials — equally at home with satellite data and community narratives. I work at the intersection of **infectious disease, mobility, and marginality**, with a growing emphasis on the **spatial politics of health**.
 
-Here are some ideas to get you started:
+- 🧭 Core: spatial epidemiology • political & medical geography • mixed methods
+- 🛰️ Methods: GIS/RS (QGIS/Google Earth Engine), R/Python, Bayesian & GAMs, small-area estimation
+- 👣 Field: GMS/Thailand–Myanmar border, Ethiopia (Dire Dawa/Gambella), SE Asia, refugee/migrant health
+- 🗣️ Outputs: papers + public essays, maps, talks, teaching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlighted work**
+- 🚨 *Dire Dawa Urban Health & Mobility*: EO + spatial risk + routine surveillance  
+- 🗺️ *Myanmar Border Mapping Archive*: a methods and cartography record  
+- 🧰 *Spatial-Epi Methods*: reusable R/Python notebooks and utilities  
+- 🌍 *EO for Health*: night-lights, settlement growth, heat/flood exposure pipelines  
+- 📚 *Political Ecology & Health (teaching)*: slides, labs, assignments  
+- ✍️ *Global Health Field Notes*: short essays & annotated maps
+
+> Contact: dparker1@hs.uci.edu · ORCID: 0000-0002-5352-7338
