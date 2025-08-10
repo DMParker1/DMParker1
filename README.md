@@ -1,6 +1,6 @@
 # Daniel M. Parker, PhD, CGEOG, FN'25
 
-*Connecting stories from the field with data from space to understand disease and society.*
+*Connecting data and stories from the field with data from sky and space to understand disease and society.*
 
 I am a spatial epidemiologist, medical geographer, and anthropological demographer working at the intersection of infectious disease ecology, mobility (mostly humans/also disease vectors), and marginality. Increasingly my academic work blends epidemiological, anthropological, and geographic methods to examine how human behavior and environmental factors shape disease dynamics, with particular focus on borderland areas in Southeast Asia and East Africa.
 
