@@ -7,11 +7,11 @@ I am a spatial epidemiologist, medical geographer, and anthropological demograph
 ---
 
 ### Now
-- Building spatial + epidemiologic tools with minimal public surface area here; most code lives under the org: **[@parker-group](https://github.com/parker-group)**.
+- Most spatial epidemiology, Earth observation, and spatial analytic code lives in my research group org: **[@parker-group](https://github.com/parker-group)**.
 - Selected highlight: **Dire Dawa sero-epidemiology analysis** → [View Project](https://github.com/parker-group/DireDawa_Seroepi)
 
 ### CV
-- **Curriculum Vitae (PDF)** → [View CV](https://github.com/parker-group/parker-group.github.io/blob/main/docs/ParkerCV.pdf)
+- Curriculum Vitae (PDF) → [View CV](https://github.com/parker-group/parker-group.github.io/blob/main/docs/ParkerCV.pdf)
 
 ### Contact
 - Academic email on CV • ORCID: [0000-0002-5352-7338](https://orcid.org/0000-0002-5352-7338)
