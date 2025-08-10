@@ -2,7 +2,10 @@
 
 *Connecting data and stories from the field with data from sky and space to understand disease and society.*
 
-![Chartered Geographer badge](assets/cg_badge.png) ![Delta Omega badge](assets/delta_omega_badge.png)
+<p>
+  <img src="assets/cg_badge.png" alt="Chartered Geographer badge" width="80"/>
+  <img src="assets/delta_omega_badge.png" alt="Delta Omega badge" width="80"/>
+</p>
 
 I am a spatial epidemiologist, medical geographer, and anthropological demographer working at the intersection of infectious disease ecology, mobility (mostly humans/also disease vectors), and marginality. Increasingly my academic work blends epidemiological, anthropological, and geographic methods to examine how human behavior and environmental factors shape disease dynamics, with particular focus on borderland areas in Southeast Asia and East Africa.
 
