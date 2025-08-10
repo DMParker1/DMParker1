@@ -17,6 +17,6 @@ I am a spatial epidemiologist, medical geographer, and anthropological demograph
 - Academic email on CV • ORCID: [0000-0002-5352-7338](https://orcid.org/0000-0002-5352-7338)
 
 <p>
-  <img src="assets/cg_badge.png" alt="Chartered Geographer badge" width="80"/>
-  <img src="assets/delta_omega_badge.png" alt="Delta Omega badge" width="80"/>
+  <img src="assets/cg_badge.png" alt="Chartered Geographer badge" height="56" style="vertical-align:middle;margin-right:8px;">
+  <img src="assets/delta_omega_badge.png" alt="Delta Omega badge" height="56" style="vertical-align:middle;">
 </p>
