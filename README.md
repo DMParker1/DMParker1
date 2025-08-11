@@ -1,4 +1,4 @@
-# Daniel M. Parker, PhD, CGEOG, FN'25
+# Daniel M. Parker, PhD, CGeog, FN'25
 
 *Connecting data and stories from the field with data from sky and space to understand disease and society.*
 
