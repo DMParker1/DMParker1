@@ -9,7 +9,7 @@ I am a spatial epidemiologist, medical geographer, and anthropological demograph
 ## Research & Code
 
 - Most of my research code, spatial epidemiology tools, and current projects live in my group organization: **[@parker-group](https://github.com/parker-group)**  
-- For a cross-project view of my GIS and spatial analysis work, see the **[Spatial Epidemiology Hub](https://github.com/DMParker1/spatial-epidemiology-hub)**  
+- For a cross-project view of my career see the **[Career Trajectory Hub](https://github.com/DMParker1/career-trajectory-hub)**  
 - Selected highlight: **Dire Dawa sero-epidemiology analysis** → [View Project](https://github.com/parker-group/DireDawa_Seroepi)
 
 ---
