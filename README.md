@@ -23,4 +23,5 @@ I am a spatial epidemiologist, medical geographer, and anthropological demograph
 <p>
   <img src="assets/cg_badge.png" alt="Chartered Geographer badge" height="56" style="vertical-align:middle;margin-right:8px;">
   <img src="assets/delta_omega_badge.png" alt="Delta Omega badge" height="56" style="vertical-align:middle;">
+  <img src="assets/Fulbright2627.png" alt="Delta Omega badge" height="56" style="vertical-align:middle;">
 </p>
